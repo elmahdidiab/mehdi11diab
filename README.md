@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="elmahdidiab" />
+  <img src="https://raw.githubusercontent.com/elmahdidiab/elmahdidiab/master/name.svg" alt="elmahdidiab" />
 </h1>
 
 ![](https://badge.mediaplus.ma/binary/ediab) [![ediab GitHub stats](https://github-readme-stats.vercel.app/api?username=mehdi11diab&show_icons=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/mehdi11diab)
